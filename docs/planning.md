@@ -10,9 +10,9 @@ Show information on all parks and trails in the New River Valley. Will include M
 - List of all parks, list of all trails, and a page for each attraction
 - Keep track of features like terrain, accessibility, climate, seasonal info, etc.
 - Link to park or trail websites, if available
-- 
 
-## Sources of data and similar websites:
+
+## Sources of data and similar websites
 
 - [Montgomery County Parks and Rec](http://www.montva.com/content/1146/98/165/1869/default.aspx)
 - [Giles County Parks and Rec](http://gilescounty.org/parks.html)
@@ -21,7 +21,7 @@ Show information on all parks and trails in the New River Valley. Will include M
 - [City of Radford Parks and Rec](http://www.radfordpl.org/parks/)
 - [Explore NRV](explorenewrivervalley.com)
 - [NRPA](nrpa.org) (nation-wide)
-- 
 
-## Libraries and tools:
+
+## Tools and libraries
 - [Open Trails](https://github.com/codeforamerica/OpenTrails)
