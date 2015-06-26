@@ -2,7 +2,7 @@ import json
 import gspread
 from oauth2client.client import SignedJwtAssertionCredentials
 
-json_key = json.load(open("nrv-parks-and-trails-739f81b49ac1.json"))
+json_key = json.load(open("nrv-parks-and-trails-2da186153c85.creds"))
 scope = ["https://spreadsheets.google.com/feeds"]
 google_sheet_url = "https://docs.google.com/spreadsheets/d/15-60RpIqkM2nev4S0UNt7h5M5mhuvegPFO8X-TU8rKg"
 
